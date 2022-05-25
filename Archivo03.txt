@@ -1,1 +1,1 @@
-New file to testing uploading files to git by updating a proyect
+New file to testing uploading files to git by updating a project
