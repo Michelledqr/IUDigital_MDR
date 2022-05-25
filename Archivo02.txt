@@ -1,0 +1,1 @@
+A Java compiler is encouraged to issue a warning if a catch clause can catch checked exception class E1 and the try block corresponding to the catch clause can throw checked exception class E2, where E2 <: E1, and a preceding catch clause of the immediately enclosing try statement can catch checked exception class E3, where E2 <: E3 <: E1.
