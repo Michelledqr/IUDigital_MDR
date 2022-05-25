@@ -2,3 +2,5 @@ En el campo de Arguments ingresa el valor de ruta de un archivo. Crear dicho arc
 “.txt” y escribe cualquier contenido en él, en una ruta y copia esa ruta completa. Por 
 ejemplo: Si la creas en el escritorio de windows, la ruta sería C:\Users\NOMBRE_
 USUARIO\Desktop\Archivo.txt
+
+En la prueba numero 2 se carga una segunda version del archivo de prueba
